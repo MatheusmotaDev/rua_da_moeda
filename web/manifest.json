@@ -1,0 +1,20 @@
+{
+    "name":  "Rua da Moeda — Do Marco Zero ao Futuro",
+    "short_name":  "Rua da Moeda",
+    "start_url":  ".",
+    "display":  "standalone",
+    "background_color":  "#142e43",
+    "theme_color":  "#142e43",
+    "description":  "Uma aventura de exploração e educação financeira no Recife. Cada escolha vale.",
+    "orientation":  "landscape",
+    "lang":  "pt-BR",
+    "prefer_related_applications":  false,
+    "icons":  [
+                  {
+                      "purpose":  "any",
+                      "type":  "image/png",
+                      "sizes":  "1254x1254",
+                      "src":  "logo.png"
+                  }
+              ]
+}
